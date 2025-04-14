@@ -1,0 +1,14 @@
+C:\Users\Noob\OneDrive\Documentos\csharp\bin\Debug\net6.0-windows\csharp.exe
+C:\Users\Noob\OneDrive\Documentos\csharp\bin\Debug\net6.0-windows\csharp.deps.json
+C:\Users\Noob\OneDrive\Documentos\csharp\bin\Debug\net6.0-windows\csharp.runtimeconfig.json
+C:\Users\Noob\OneDrive\Documentos\csharp\bin\Debug\net6.0-windows\csharp.dll
+C:\Users\Noob\OneDrive\Documentos\csharp\bin\Debug\net6.0-windows\csharp.pdb
+C:\Users\Noob\OneDrive\Documentos\csharp\obj\Debug\net6.0-windows\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noob\OneDrive\Documentos\csharp\obj\Debug\net6.0-windows\csharp.AssemblyInfoInputs.cache
+C:\Users\Noob\OneDrive\Documentos\csharp\obj\Debug\net6.0-windows\csharp.AssemblyInfo.cs
+C:\Users\Noob\OneDrive\Documentos\csharp\obj\Debug\net6.0-windows\csharp.csproj.CoreCompileInputs.cache
+C:\Users\Noob\OneDrive\Documentos\csharp\obj\Debug\net6.0-windows\csharp.dll
+C:\Users\Noob\OneDrive\Documentos\csharp\obj\Debug\net6.0-windows\refint\csharp.dll
+C:\Users\Noob\OneDrive\Documentos\csharp\obj\Debug\net6.0-windows\csharp.pdb
+C:\Users\Noob\OneDrive\Documentos\csharp\obj\Debug\net6.0-windows\csharp.genruntimeconfig.cache
+C:\Users\Noob\OneDrive\Documentos\csharp\obj\Debug\net6.0-windows\ref\csharp.dll
